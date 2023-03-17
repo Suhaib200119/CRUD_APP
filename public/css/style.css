@@ -1,0 +1,27 @@
+.nav{
+    height: 50px;
+    width: 100%;
+    background-color: #45a049;
+    text-align: right;
+}
+.nav ul li{
+    display: inline-block;
+    margin-top: 13px;
+}
+.nav ul li a{
+text-decoration: none;
+color: white;
+margin-left: 10px;
+padding-right: 4px;
+}
+
+.header{
+    width: 100%;
+    background-color: #45a049;
+    text-align: right;
+    direction: rtl;
+    padding: 1px 0px 1px 0px;
+    color: #fff;
+    padding: 10px 0px 10px 0px;
+    margin-bottom: 8px;
+}

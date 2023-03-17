@@ -1,0 +1,36 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    direction: rtl;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+      padding: 8px;
+    text-align: center;
+
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  .btn_delete{
+    background-color: rgb(168, 7, 7);
+    color: white;
+    border: none;
+    outline: none;
+    padding: 8px 32px 8px 32px;
+    cursor: pointer;
+  }
+
+  .btn_update{
+    background-color: rgb(40, 40, 220);
+    color: white;
+    border: none;
+    outline: none;
+    padding: 6px 32px 6px 32px;
+    cursor: pointer;
+    text-decoration: none;
+  }
